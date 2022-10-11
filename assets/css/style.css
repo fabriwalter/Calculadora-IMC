@@ -25,6 +25,29 @@ body {
     border-radius: 10px;
 }
 
+
+/* Resultados
+--------------------------- */
+
+.tabela-nomes, .tabela-resultados {
+    display: inline-block;
+    width: 48%;
+    margin-bottom: 30px;
+}
+
+.tabela-nomes h4, .tabela-resultados h4 {
+    margin-bottom: 10px;
+}
+
+.tabela-nomes p, .tabela-resultados p {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+
+/* Formulário
+--------------------*/
+
 form input, form label, form button {
     display: block;
     width: 100%;
