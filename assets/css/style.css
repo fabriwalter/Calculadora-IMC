@@ -78,3 +78,21 @@ form button {
 form button:hover {
     background: var(--primary-color-daker);
 }
+
+#resultado {
+    margin-top: 30px;
+}
+
+
+/* Formatações dos Resultados
+------------------------------- */
+
+.resultado-valido {
+    margin-top: 30px;
+    background: #36DABF;
+}
+
+.resultado-invalido {
+    margin-top: 30px;
+    background: #DA3636;
+}
